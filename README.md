@@ -25,4 +25,4 @@ Supported commands:
 
 Binaries:
 
-- The Releases folder have pre compiled binaries
+- The Releases folder has pre-compiled binaries
