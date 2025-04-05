@@ -26,3 +26,7 @@ Supported commands:
 Binaries:
 
 - The Releases folder has pre-compiled binaries
+
+  
+# Multi-threaded Encryption
+![locker_performance](https://github.com/user-attachments/assets/4488892e-95d2-4089-83e0-6781863bf0ce)
